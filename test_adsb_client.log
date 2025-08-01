@@ -1,0 +1,24 @@
+2025-06-27 21:09:42,511 - INFO - Created test output file: test_adsb_data_20250627_210942.csv
+2025-06-27 21:09:42,793 - INFO - Connected to data.adsbhub.org:5002
+2025-06-27 21:09:42,793 - INFO - Starting 30 second test...
+2025-06-27 21:09:42,935 - WARNING - No data received
+2025-06-27 21:09:42,935 - INFO - Disconnected
+2025-06-27 21:09:42,935 - INFO - Test completed: 0 total messages, 0 with position data in 0.1s
+2025-06-27 21:12:11,029 - INFO - Created test output file: test_adsb_data_20250627_211211.csv
+2025-06-27 21:12:11,177 - INFO - Connected to data.adsbhub.org:5002
+2025-06-27 21:12:11,177 - INFO - Starting 30 second test...
+2025-06-27 21:12:11,323 - WARNING - No data received
+2025-06-27 21:12:11,325 - INFO - Disconnected
+2025-06-27 21:12:11,325 - INFO - Test completed: 0 total messages, 0 with position data in 0.1s
+2025-06-29 14:22:07,924 - INFO - Created test output file: test_adsb_data_20250629_142207.csv
+2025-06-29 14:22:08,072 - INFO - Connected to data.adsbhub.org:5002
+2025-06-29 14:22:08,072 - INFO - Starting 30 second test...
+2025-06-29 14:22:08,225 - WARNING - No data received
+2025-06-29 14:22:08,227 - INFO - Disconnected
+2025-06-29 14:22:08,227 - INFO - Test completed: 0 total messages, 0 with position data in 0.2s
+2025-08-01 14:00:44,786 - INFO - Created test output file: test_adsb_data_20250801_140044.csv
+2025-08-01 14:00:44,810 - INFO - Connected to data.adsbhub.org:5002
+2025-08-01 14:00:44,811 - INFO - Starting 30 second test...
+2025-08-01 14:00:44,833 - WARNING - No data received
+2025-08-01 14:00:44,833 - INFO - Disconnected
+2025-08-01 14:00:44,833 - INFO - Test completed: 0 total messages, 0 with position data in 0.0s

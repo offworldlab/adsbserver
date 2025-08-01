@@ -1,0 +1,1 @@
+timestamp,message_type,transmission_type,session_id,aircraft_id,hex_ident,flight_id,date_generated,time_generated,date_logged,time_logged,callsign,altitude,ground_speed,track,latitude,longitude,vertical_rate,squawk,alert,emergency,spi,is_on_ground
